@@ -2,6 +2,7 @@ using System.Text.Json.Serialization;
 
 namespace Api;
 
+// Classe que representa uma temperatura
 public class WeatherForecast
 {
     [JsonIgnore]
