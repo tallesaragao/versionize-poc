@@ -15,5 +15,5 @@ public class WeatherForecast
 
     public string? Summary { get; set; }
 
-    public string Hash { get; set; } = "static-hash";
+    public string Hash { get; set; } = Guid.NewGuid().ToString();
 }
