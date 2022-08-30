@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.1.0"></a>
+## [1.1.0](https://www.github.com/tallesaragao/versionize-poc/releases/tag/v1.1.0) (2022-8-30)
+
+### Features
+
+* adicionar temperatura mid ([1638886](https://www.github.com/tallesaragao/versionize-poc/commit/1638886962ac776ab6e8f3d615f869ebc027bf67))
+* definir temperatura mínima como -15 graus ([98278cf](https://www.github.com/tallesaragao/versionize-poc/commit/98278cf03f368587f1bf9b0837be147d3394a220))
+
+### Bug Fixes
+
+* número de temperaturas ([9b34077](https://www.github.com/tallesaragao/versionize-poc/commit/9b340775ae1943136b39f1439281a08e5e233316))
+
 <a name="1.0.0"></a>
 ## [1.0.0](https://www.github.com/tallesaragao/versionize-poc/releases/tag/v1.0.0) (2022-8-30)
 
