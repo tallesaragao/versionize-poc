@@ -1,7 +1,10 @@
+using System.Text.Json.Serialization;
+
 namespace Api;
 
 public class WeatherForecast
 {
+    [JsonIgnore]
     public string Id { get; set; } = Guid.NewGuid().ToString();
     public DateTime Date { get; set; }
 
