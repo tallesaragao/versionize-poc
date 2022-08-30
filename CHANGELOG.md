@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.2.0"></a>
+## [1.2.0](https://www.github.com/tallesaragao/versionize-poc/releases/tag/v1.2.0) (2022-8-30)
+
+### Features
+
+* adicionar id à temperatura ([cfa4946](https://www.github.com/tallesaragao/versionize-poc/commit/cfa4946939764192f7b6d159f2d435ccba85827b))
+* implementação hash ([195e943](https://www.github.com/tallesaragao/versionize-poc/commit/195e943cf555fd01220909490d7f06e3c0d3adc0))
+
+### Bug Fixes
+
+* não exibir id da temperatura ([2a16147](https://www.github.com/tallesaragao/versionize-poc/commit/2a161471043fe038c9115b3c172e23b371f7b846))
+
 <a name="1.1.0"></a>
 ## [1.1.0](https://www.github.com/tallesaragao/versionize-poc/releases/tag/v1.1.0) (2022-8-30)
 
